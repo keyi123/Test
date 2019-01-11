@@ -7,11 +7,6 @@ namespace Assets.Scripts
 {
     class Test
     {
-        public enum TestState
-        {
-            test1,
-            test2,
-        }
         public enum HomeState
         {
             Upgrading,//升级中
