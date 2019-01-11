@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_HTC_Unity5_4_1.CSharp", "Project_HTC_Unity5_4_1.CSharp.csproj", "{88F26E59-56DB-5577-443B-E09F3898A2F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_HTC_Unity5_4_1.CSharp.Editor", "Project_HTC_Unity5_4_1.CSharp.Editor.csproj", "{9851B1DA-3CB3-5B19-CC24-662B76E40D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F26E59-56DB-5577-443B-E09F3898A2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F26E59-56DB-5577-443B-E09F3898A2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F26E59-56DB-5577-443B-E09F3898A2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F26E59-56DB-5577-443B-E09F3898A2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9851B1DA-3CB3-5B19-CC24-662B76E40D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9851B1DA-3CB3-5B19-CC24-662B76E40D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9851B1DA-3CB3-5B19-CC24-662B76E40D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9851B1DA-3CB3-5B19-CC24-662B76E40D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
